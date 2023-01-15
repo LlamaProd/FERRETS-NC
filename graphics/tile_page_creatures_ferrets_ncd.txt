@@ -1,0 +1,8 @@
+tile_page_creatures_ferrets_ncd
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:CREATURES_FERRETS_NCD]
+	[FILE:images/creatures_ferrets_ncd.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:256:96]
