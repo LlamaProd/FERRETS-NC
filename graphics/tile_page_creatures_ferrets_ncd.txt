@@ -5,4 +5,4 @@ tile_page_creatures_ferrets_ncd
 [TILE_PAGE:CREATURES_FERRETS_NCD]
 	[FILE:images/creatures_ferrets_ncd.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM_PIXELS:256:96]
+	[PAGE_DIM_PIXELS:256:64]
